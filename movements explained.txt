@@ -1,0 +1,15 @@
+*) idel rifle :- idel rifile is just riffle in hand no aim no nothing just standing
+
+*) w rifle down walk:- just a normal walk with rifle in hand , no aim
+
+*) w+sprint no aim run:- character running, no aiming
+
+*) rifle aiming idel :- no movement , just holding the gun ready to fire
+
+*) idel firing :- no movement firing the gun while aiming
+
+*) w+firing :- character moving forward slowly while firing
+
+*) w+sprint+aim :- character running while holding gun ready to shoot 
+
+*) rifle aim to down:- when the character doest fire for more than 30 seconds 
